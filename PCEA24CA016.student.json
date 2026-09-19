@@ -1,0 +1,202 @@
+[{
+  "_id": {
+    "$oid": "6aa7a2fa5d716c3508b5c018"
+  },
+  "name": "Bhanu Kiran",
+  "age": 21,
+  "email": "bhanukiran1111@gmail.com",
+  "Phone": 891241321,
+  "cgpa": 9.5,
+  "skills": [
+    "C",
+    "Java",
+    "C"
+  ],
+  "address": {
+    "city": "jaipur",
+    "zipcode": 721461,
+    "state": "Rajasthan"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa7bb9803adc573c338fa55"
+  },
+  "name": "Aditya",
+  "age": 21,
+  "email": "aditya@gmail.com",
+  "Phone": 891241321,
+  "cgpa": 8,
+  "skills": [
+    "C",
+    "Java",
+    "C++"
+  ],
+  "address": {
+    "city": "udaipur",
+    "zipcode": 721461,
+    "state": "Rajasthan"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa8b42a03adc573c338fa57"
+  },
+  "name": "Aman",
+  "age": 21,
+  "email": "aman@gmail.com",
+  "Phone": 891241321,
+  "cgpa": 8.2,
+  "skills": [
+    "C",
+    "Java",
+    "C++"
+  ],
+  "address": {
+    "city": "Sikar",
+    "zipcode": 833331,
+    "state": "Rajasthan"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa8b47103adc573c338fa59"
+  },
+  "name": "Bhavya",
+  "age": 21,
+  "email": "bhavya@gmail.com",
+  "Phone": 891241321,
+  "cgpa": 8,
+  "skills": [
+    "C",
+    "Java",
+    "python"
+  ],
+  "address": {
+    "city": "Jaipur",
+    "zipcode": 721461,
+    "state": "Rajasthan"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa8b51303adc573c338fa5b"
+  },
+  "name": "Rishi",
+  "age": 21,
+  "email": "rishi@gmail.com",
+  "Phone": 987654321,
+  "cgpa": 7,
+  "skills": [
+    "C",
+    "Python",
+    "C++"
+  ],
+  "address": {
+    "city": "kanpur",
+    "zipcode": 721461,
+    "state": "U.P."
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa8b58e03adc573c338fa5d"
+  },
+  "name": "Vishwash",
+  "age": 21,
+  "email": "vishwash@gmail.com",
+  "Phone": 891241321,
+  "cgpa": 8,
+  "skills": [
+    "C",
+    "Java",
+    "Bash"
+  ],
+  "address": {
+    "city": "Udaipur",
+    "zipcode": 761423,
+    "state": "Rajasthan"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa8b64703adc573c338fa5f"
+  },
+  "name": "Raman",
+  "age": 21,
+  "email": "raman@gmail.com",
+  "Phone": 891241321,
+  "cgpa": 7,
+  "skills": [
+    "Python",
+    "Java",
+    "C"
+  ],
+  "address": {
+    "city": "Jaipur",
+    "zipcode": 757761,
+    "state": "Rajasthan"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa8b69603adc573c338fa61"
+  },
+  "name": "Falguni",
+  "age": 21,
+  "email": "Falguni@gmail.com",
+  "Phone": 891241321,
+  "cgpa": 7.5,
+  "skills": [
+    "C",
+    "Python",
+    "C++"
+  ],
+  "address": {
+    "city": "udaipur",
+    "zipcode": 721461,
+    "state": "Rajasthan"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa8b6ff03adc573c338fa64"
+  },
+  "name": "Angel",
+  "age": 21,
+  "email": "angel@gmail.com",
+  "Phone": 891241321,
+  "cgpa": 8,
+  "skills": [
+    "C",
+    "Go",
+    "MySQL"
+  ],
+  "address": {
+    "city": "Jaipur",
+    "zipcode": 721461,
+    "state": "Rajasthan"
+  }
+},
+{
+  "_id": {
+    "$oid": "6aa8b73103adc573c338fa66"
+  },
+  "name": "Shreya",
+  "age": 21,
+  "email": "shreya@gmail.com",
+  "Phone": {
+    "$numberLong": "8732862767"
+  },
+  "cgpa": 9,
+  "skills": [
+    "C",
+    "Java",
+    "python"
+  ],
+  "address": {
+    "city": "Jaipur",
+    "zipcode": 721461,
+    "state": "Rajasthan"
+  }
+}]

@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "6aa7a5115d716c3508b5c01e"
+  },
+  "name": "Headphones",
+  "price": 1200,
+  "quantity": 20,
+  "colors-available": 8
+},
+{
+  "_id": {
+    "$oid": "6aaa067f28d5f82a3baab992"
+  },
+  "name": "Airpods",
+  "price": 10000,
+  "quantity": 50,
+  "colors-available": 3
+},
+{
+  "_id": {
+    "$oid": "6aaa069d28d5f82a3baab993"
+  },
+  "name": "Samsung Phone",
+  "price": 70000,
+  "quantity": 50,
+  "colors-available": 9
+},
+{
+  "_id": {
+    "$oid": "6aaa06f928d5f82a3baab995"
+  },
+  "name": "Samsung Flip Phone ",
+  "price": 100000,
+  "quantity": 12,
+  "colors-available": 9
+},
+{
+  "_id": {
+    "$oid": "6aaa072f28d5f82a3baab997"
+  },
+  "name": "SSD",
+  "price": 20000,
+  "quantity": 20,
+  "colors-available": 2
+},
+{
+  "_id": {
+    "$oid": "6aaa079228d5f82a3baab999"
+  },
+  "name": "Speaker System",
+  "price": 30000,
+  "quantity": 58,
+  "colors-available": 1
+},
+{
+  "_id": {
+    "$oid": "6aaa07c828d5f82a3baab99b"
+  },
+  "name": "Earphones",
+  "price": 2000,
+  "quantity": 10,
+  "colors-available": 2
+},
+{
+  "_id": {
+    "$oid": "6aaa080b28d5f82a3baab99d"
+  },
+  "name": "Pendrive",
+  "price": 5000,
+  "quantity": 20,
+  "colors-available": 3
+},
+{
+  "_id": {
+    "$oid": "6aaa083428d5f82a3baab99f"
+  },
+  "name": "CD",
+  "price": 300,
+  "quantity": 10,
+  "colors-available": 1
+},
+{
+  "_id": {
+    "$oid": "6aaa087d28d5f82a3baab9a1"
+  },
+  "name": "Gaming Assessories",
+  "price": 3000,
+  "quantity": 5,
+  "colors-available": 2
+}]
